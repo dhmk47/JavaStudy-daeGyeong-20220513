@@ -4,7 +4,6 @@ import java.util.Objects;
 
 /*
  * Object class(최상위 클래스)
- * 
  */
 
 public class Teacher {
@@ -42,10 +41,10 @@ public class Teacher {
 	}
 	
 	
-	public void classInfo() {
+//	public void classInfo() {
 		// 클래스안의 정보들을 담고 있습니다.
 //		System.out.println(Teacher.class.);
 //		System.out.println(getClass().);
 //		System.out.println(this.getClass().);
-	}
+//	}
 }
